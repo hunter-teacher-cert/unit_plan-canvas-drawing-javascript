@@ -47,6 +47,7 @@ JavaScript, HTML, CSS
 [WEB MDN](https://developer.mozilla.org/en-US/)
 [W3Schools](https://www.w3schools.com/tags/ref_canvas.asp)
 [JavaScript animations](https://javascript.info/js-animation#more-interesting-draw)
+
 ---
 
 ### Lessons

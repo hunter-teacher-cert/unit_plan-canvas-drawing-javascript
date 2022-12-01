@@ -101,16 +101,16 @@ setInterval(function() {
     ball.draw();
     ball.move();
 
-    // if (ball.x == 200){
-    //     getWidth(200);
-    // } else if (ball.x == 0){
-    //     getWidth(0);
-    // } 
-    // if (ball.y == 0){
-    //     getHeight(0);
-    // } else if (ball.y == 200){
-    //     getHeight(200);
-    // }
+    if (ball.x == 200){
+        getWidth(200);
+    } else if (ball.x == 0){
+        getWidth(0);
+    } 
+    if (ball.y == 0){
+        getHeight(0);
+    } else if (ball.y == 200){
+        getHeight(200);
+    }
 
     ctx.strokeRect(0, 0, width, height);
 

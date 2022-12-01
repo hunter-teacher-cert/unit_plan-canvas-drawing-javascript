@@ -63,10 +63,11 @@ Going over JavaScript functions, variables, iterative statements
 
 Third week: 
 Coding in Canvas<br>
-[Lesson one for Loops](https://github.com/hunter-teacher-cert/unit_plan-canvas-drawing-javascript/blob/main/lessons/Lesson%201%20for%20Unit%20Plan.pdf)
-[Lesson two setInterval](https://github.com/hunter-teacher-cert/unit_plan-canvas-drawing-javascript/blob/main/lessons/02_Lesson2_setInterval.pdf)
-Fourth week:
-Building the Snake game
+[Lesson one for Loops](https://github.com/hunter-teacher-cert/unit_plan-canvas-drawing-javascript/blob/main/lessons/Lesson%201%20for%20Unit%20Plan.pdf)<br>
+[Lesson two setInterval](https://github.com/hunter-teacher-cert/unit_plan-canvas-drawing-javascript/blob/main/lessons/02_Lesson2_setInterval.pdf)<br>
+
+Fourth week: Building the Snake game
+
 ---
 
 ### Assesments

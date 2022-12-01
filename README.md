@@ -62,7 +62,8 @@ Second week:
 Going over JavaScript functions, variables, iterative statements
 
 Third week: 
-Coding in Canvas
+Coding in Canvas<br>
+[Lesson one](https://github.com/hunter-teacher-cert/unit_plan-canvas-drawing-javascript/blob/main/lessons/Lesson%201%20for%20Unit%20Plan.pdf)
 
 Fourth week:
 Building the Snake game
